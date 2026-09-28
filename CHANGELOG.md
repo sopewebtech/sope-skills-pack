@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.1
+
+- New: **`skills-starter-pack.plugin`**, which installs all five skills in one step in the Claude desktop app.
+- Claude install guide now leads with the one-file plugin install, and notes that Team and Enterprise admins can add the skills for a whole organisation.
+
 ## v1.0.0
 
 First release of the Sope Skills Starter Pack.

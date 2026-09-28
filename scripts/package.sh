@@ -22,3 +22,7 @@ done
 cd "$root"
 zip -rq "$dist/sope-skills-pack.zip" README.md LICENSE CHANGELOG.md assets docs skills
 echo "built dist/sope-skills-pack.zip"
+
+# Claude plugin: plugin manifest + skills at the root of the zip
+zip -rq "$dist/skills-starter-pack.plugin" .claude-plugin/plugin.json skills LICENSE
+echo "built dist/skills-starter-pack.plugin"

@@ -49,7 +49,8 @@ Pick the AI tool you use. Every option takes a few minutes.
 | I use… | Best way | Guide |
 |--------|----------|-------|
 | **Microsoft 365 Copilot** | Create a Copilot agent for each skill | [Install in Copilot](docs/install-copilot.md) |
-| **Claude** (claude.ai or desktop app) | Upload each skill as a zip | [Install in Claude](docs/install-claude.md) |
+| **Claude desktop app** | Install the plugin: one file, all five skills | [Install in Claude](docs/install-claude.md#claude-desktop-app-all-five-in-one-file) |
+| **Claude.ai** | Upload each skill as a zip | [Install in Claude](docs/install-claude.md#claudeai-one-skill-at-a-time) |
 | **Claude Code** | Install the plugin | [Install in Claude Code](docs/install-claude.md#claude-code) |
 | **ChatGPT** | Create a custom GPT or project for each skill | [Install in ChatGPT](docs/install-chatgpt.md) |
 | **Anything else** | Copy and paste | [See below](#no-setup-option-copy-and-paste) |
@@ -58,7 +59,8 @@ Pick the AI tool you use. Every option takes a few minutes.
 
 Grab the latest from the [**Releases page**](https://github.com/sopewebtech/sope-skills-pack/releases/latest):
 
-- [`sope-skills-pack.zip`](https://github.com/sopewebtech/sope-skills-pack/releases/latest/download/sope-skills-pack.zip): all five skills in one download
+- [`skills-starter-pack.plugin`](https://github.com/sopewebtech/sope-skills-pack/releases/latest/download/skills-starter-pack.plugin): all five skills as a Claude plugin, installed in one step in the Claude desktop app
+- [`sope-skills-pack.zip`](https://github.com/sopewebtech/sope-skills-pack/releases/latest/download/sope-skills-pack.zip): all five skills plus the guides, for Copilot, ChatGPT or copy and paste
 - One zip per skill, ready to upload to Claude:
   [meeting-summary-actions](https://github.com/sopewebtech/sope-skills-pack/releases/latest/download/meeting-summary-actions.zip) ·
   [voice-tone-matcher](https://github.com/sopewebtech/sope-skills-pack/releases/latest/download/voice-tone-matcher.zip) ·

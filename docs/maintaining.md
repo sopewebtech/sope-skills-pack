@@ -22,7 +22,7 @@ docs/                  Install guides per AI tool (client-facing) + this file
 scripts/
   install.ps1 / .sh    Copy skills into ~/.claude/skills (Claude Code)
   validate.sh          Checks frontmatter and instruction length
-  package.sh           Builds dist/*.zip for releases
+  package.sh           Builds dist/*.zip and dist/skills-starter-pack.plugin for releases
 skills/<skill-name>/
   SKILL.md             The skill. This one file is the source of truth for every AI tool
   README.md            Client-facing guide shown on GitHub

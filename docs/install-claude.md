@@ -2,13 +2,31 @@
 
 These skills are written in Claude's native **Agent Skills** format. Once they're installed, Claude picks the right skill automatically. Paste a transcript and it knows to summarise it, with no need to name the skill.
 
-- [Claude.ai and the desktop app](#claudeai-and-the-desktop-app)
+- [Claude desktop app: all five in one file](#claude-desktop-app-all-five-in-one-file)
+- [Claude.ai: one skill at a time](#claudeai-one-skill-at-a-time)
 - [Claude Code](#claude-code)
 - [Copy and paste (any plan)](#copy-and-paste-any-plan)
 
+> **Setting this up for a whole team?** On Claude Team and Enterprise plans, an admin can add skills for the entire organisation, so people don't have to install anything themselves. Send this page to whoever manages Claude for your organisation.
+
 ---
 
-## Claude.ai and the desktop app
+## Claude desktop app: all five in one file
+
+The quickest way to install. One download installs every skill in the pack as a plugin.
+
+1. Download [**skills-starter-pack.plugin**](https://github.com/sopewebtech/sope-skills-pack/releases/latest/download/skills-starter-pack.plugin).
+2. Open the Claude desktop app and switch to **Cowork**.
+3. Attach the `.plugin` file to a message, the same way you'd attach any file.
+4. Claude shows a preview of the plugin and its five skills. Select the button to install it.
+
+**To use:** paste your content into a chat. Claude loads the matching skill by itself.
+
+Not using the desktop app, or want only some of the skills? Use the next option.
+
+---
+
+## Claude.ai: one skill at a time
 
 > **Before you start:** skills are available on paid Claude plans. On Team and Enterprise plans, an admin may need to turn skills on for your organisation first.
 
