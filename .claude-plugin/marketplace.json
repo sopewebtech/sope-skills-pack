@@ -1,0 +1,25 @@
+{
+  "name": "sope",
+  "owner": {
+    "name": "Sope",
+    "url": "https://sope.com.au"
+  },
+  "metadata": {
+    "description": "Free AI skills from Sope. Paste-in, zero-setup skills for everyday work."
+  },
+  "plugins": [
+    {
+      "name": "skills-starter-pack",
+      "source": "./",
+      "description": "Five paste-in skills: meeting summary and actions, voice and tone matcher, executive summary, inbox triage and reply drafts, plain-English rewriter.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sope",
+        "url": "https://sope.com.au"
+      },
+      "homepage": "https://github.com/sopewebtech/sope-skills-pack",
+      "license": "MIT",
+      "keywords": ["productivity", "meetings", "email", "writing", "summaries"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "skills-starter-pack",
+  "version": "1.0.0",
+  "description": "Sope Skills Starter Pack. Five paste-in skills for meetings, writing, documents and email.",
+  "author": {
+    "name": "Sope",
+    "url": "https://sope.com.au"
+  },
+  "homepage": "https://github.com/sopewebtech/sope-skills-pack",
+  "repository": "https://github.com/sopewebtech/sope-skills-pack",
+  "license": "MIT",
+  "keywords": ["productivity", "meetings", "email", "writing", "summaries"]
+}
