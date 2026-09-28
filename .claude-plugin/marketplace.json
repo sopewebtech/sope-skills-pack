@@ -12,7 +12,7 @@
       "name": "skills-starter-pack",
       "source": "./",
       "description": "Five paste-in skills: meeting summary and actions, voice and tone matcher, executive summary, inbox triage and reply drafts, plain-English rewriter.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": {
         "name": "Sope",
         "url": "https://sope.com.au"

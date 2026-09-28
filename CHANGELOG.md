@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.2
+
+- Fix: the release now includes `skills-starter-pack.plugin` (it was built but not uploaded in v1.0.1).
+
 ## v1.0.1
 
 - New: **`skills-starter-pack.plugin`**, which installs all five skills in one step in the Claude desktop app.
